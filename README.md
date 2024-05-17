@@ -10,7 +10,7 @@ Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi*
 
 
 ## Code 
-The code will be updated..
+The public code is under construction. If you need the current version, please send us an e-mail.
 
 ## Contact 
 If you have any questions, feel free to ask cjw@vilab.cau.ac.kr or choijw@cau.ac.kr.

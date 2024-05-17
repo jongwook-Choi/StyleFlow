@@ -9,8 +9,8 @@ Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi*
 </p>
 
 
-## code 
+## Code 
 The code will be updated..
 
-## contact 
+## Contact 
 If you have any questions, feel free to ask cjw@vilab.cau.ac.kr or choijw@cau.ac.kr.

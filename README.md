@@ -1,4 +1,4 @@
-# Exploiting Style Latent Flows for Generalizing Deepfake Video Detection [CVPR2024]
+# Exploiting Style Latent Flows for Generalizing Deepfake Video Detection (CVPR 2024)
 Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi*
 
 ## Abstract 

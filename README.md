@@ -9,8 +9,18 @@ Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi*
 </p>
 
 
-## Code 
-The public code is under construction. If you need the current version, please send us an e-mail.
-
-## Contact 
+## TODO
+The public code is under construction. It is scheduled to be released in July 2024.\\
 If you have any questions, feel free to ask cjw@vilab.cau.ac.kr or choijw@cau.ac.kr.
+
+## Citation 
+```
+@inproceedings{choi2024exploiting,
+  title={Exploiting Style Latent Flows for Generalizing Deepfake Video Detection},
+  author={Choi, Jongwook and Kim, Taehoon and Jeong, Yonghyun and Baek, Seungryul and Choi, Jongwon},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1133--1143},
+  year={2024}
+}
+```
+

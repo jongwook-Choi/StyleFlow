@@ -8,10 +8,17 @@ Jongwook Choi, Taehoon Kim, Yonghyun Jeong, Seungryul Baek, Jongwon Choi*
 <img src="figs/StyleFlow.png" width=100%>
 </p>
 
+## Requirements
 
-## Code
-The public code is under construction. It is scheduled to be released in July 2024.  
-If you have any questions, feel free to ask cjw@vilab.cau.ac.kr or choijw@cau.ac.kr.
+
+## Stage 1 
+```
+sh train.sh
+```
+
+## TODO
+- [x] Stage 1 code
+- [ ] Inference Demo
 
 ## Citation 
 ```
